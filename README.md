@@ -31,5 +31,6 @@ print(result)
 1  3  6
 ```
 
-# License
+
+
 
